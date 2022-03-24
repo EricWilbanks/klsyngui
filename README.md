@@ -23,16 +23,16 @@ This is a GUI that provides additional functionality for Ron Sprouse's klsyn pac
 ## To-Do
 
 - [x] Initial Development
-- [] Installation blurb
-- [] Usage blurb
-- [] custom_read() functionality in pull request to klsyn.klpfile.read()
-- [] Check against infinite hanging in self.\_\_check\_parameter\_fixedvariable\_status() and self.\_\_param\_choice\_window()
-- [] Implement selection window in self.\_\_check\_parameter\_fixedvariable\_status()
-- [] Validation of int status and ranges in self.\_\_validate\_slope() and self.\_\_validate\_int()
-- [] Improve hard coded reference to button labels in various self.\_\_toggle functions
-- [] Convert self.\_\_edit\_sel\_convert\_av() into general swapping function
-- [] Add confirmation window to self.\_\_interpolate\_outliers()
-- [] Improve location of plot labels in self.\_\_klp\_plot\_frame()
+- [ ] Installation blurb
+- [ ] Usage blurb
+- [ ] custom_read() functionality in pull request to klsyn.klpfile.read()
+- [ ] Check against infinite hanging in self.\_\_check\_parameter\_fixedvariable\_status() and self.\_\_param\_choice\_window()
+- [ ] Implement selection window in self.\_\_check\_parameter\_fixedvariable\_status()
+- [ ] Validation of int status and ranges in self.\_\_validate\_slope() and self.\_\_validate\_int()
+- [ ] Improve hard coded reference to button labels in various self.\_\_toggle functions
+- [ ] Convert self.\_\_edit\_sel\_convert\_av() into general swapping function
+- [ ] Add confirmation window to self.\_\_interpolate\_outliers()
+- [ ] Improve location of plot labels in self.\_\_klp\_plot\_frame()
 
 
 ## Contact
