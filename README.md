@@ -20,7 +20,7 @@ This is a GUI that provides additional functionality for Ron Sprouse's klsyn pac
 
 ## Usage
 
-## To-Do
+## Task List
 
 - [x] Initial Development
 - [ ] Installation blurb
