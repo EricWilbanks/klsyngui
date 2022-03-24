@@ -5,16 +5,19 @@
 This is a GUI that provides additional functionality for Ron Sprouse's klsyn package (https://github.com/rsprouse/klsyn). The klsyn package is a Python port of Dennis Klatt's original C speech synthesis software. Please be sure to review the licensing information in klsyn's README for restrictions on using that package.
 
 
+
 ## Dependencies
+Development was originally carried out in Python 3.8.5
+
 - https://github.com/rsprouse/klsyn
 - https://github.com/rsprouse/audiolabel
-- pandas
-- pandastable
-- tkinter
-- matplotlib
-- sklearn
-- scipy
-- pygame
+- pandas (developed using 1.2.4)
+- pandastable (developed using 0.12.2.post1)
+- tk/tkinter (developed using 0.1.0)
+- matplotlib (developed using 3.3.2)
+- sklearn (developed using 0.23.2)
+- scipy (developed using 1.5.2)
+- pygame (developed using 2.0.2)
 
 ## Installation
 
