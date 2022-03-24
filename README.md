@@ -33,6 +33,7 @@ This is a GUI that provides additional functionality for Ron Sprouse's klsyn pac
 - [ ] Convert self.\_\_edit\_sel\_convert\_av() into general swapping function
 - [ ] Add confirmation window to self.\_\_interpolate\_outliers()
 - [ ] Improve location of plot labels in self.\_\_klp\_plot\_frame()
+- [ ] Add setup.py and related files for pip install
 
 
 ## Contact
