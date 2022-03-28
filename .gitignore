@@ -1,1 +1,3 @@
 testing/
+*.ipynb
+.ipynb_checkpoints/
