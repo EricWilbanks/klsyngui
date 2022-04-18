@@ -108,7 +108,6 @@ def custom_read(fname,*args):
 
 # make sure to update references to class attributes if you change the class name..
 class klp_gui():
-
     # these klatt parameters are never allowed to be variable
     # min, default, and max values are as described in Klatt & Klatt (1990) - JASA, Table XI
     always_fixed = {'sr': {'min': 5000, 'default': 10000, 'max': 20000}, # "output sampling rate, in sample/s"
